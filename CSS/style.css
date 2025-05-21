@@ -195,4 +195,10 @@ header nav {
     font-size: 3rem;
     font-weight: bold;
   }
+#escolheImg{
+margin-botton: 100px;
+}
+#escolheImg ul{
+max-width:100vw;
+}
 }
