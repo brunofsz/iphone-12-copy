@@ -34,4 +34,4 @@ Este é um projeto de **cópia da página do iPhone 13 Pro da Apple**, criado co
 
 ## 📸 Preview
 
-![Preview](./Assets/Preview)
+![Preview](./Assets/Preview.png)
